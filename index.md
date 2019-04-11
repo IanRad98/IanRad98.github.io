@@ -17,6 +17,7 @@ Syntax highlighted code block
 
  * You can use my webpage to find inspiration for coding 
    and use the templates in your projects!
+   
  * Feel free to come up with new ideas and suggestions on 
    how this project should continue on developing 
 
@@ -43,7 +44,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 
-As Malcolm X said: 
+And as Malcolm X said: 
 
 > "The future belongs to those who
 > prepare for it today."
