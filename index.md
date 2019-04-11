@@ -16,7 +16,8 @@ Syntax highlighted code block
 # List of things to do:
  * You can use my webpage to find inspiration for coding 
  * and use the templates in your projects!
-### Header 3
+ * Feel free to come up with new ideas and suggestions on 
+ * how this project should continue on developing 
 
 - Bulleted
 - List
