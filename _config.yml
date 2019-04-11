@@ -2,27 +2,4 @@ theme: jekyll-theme-merlot
 title: Welcome to IanRad98's homepage!
 description: Feel free to save this webpage!
 
-# This is an list of things that you can do 
-* Share this if needed
- * Facebook
- * Instagram
- 
- http://github.com - automatic!
- [GitHub](http://github.com)
- 
- 
- As Albert Einstein always said: 
- > I have no special talent. I am
- > only passionately curious.
- 
- 
-Developer | Sponsors
---------- | --------
-Ian Radmanovic | Microsoft
-Bill Gates | Nike
-Miley Cyrus | Google
-
-
-GitHub supports emoji!
-:+1: :camel: :rocket: :tada:
-:metal: :sparkles:
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
