@@ -14,7 +14,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # List of things to do:
- * You can use my webpage to find inspiration for coding and use the templates in your projects!
+ * You can use my webpage to find inspiration for coding 
+ * and use the templates in your projects!
 ### Header 3
 
 - Bulleted
