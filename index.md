@@ -48,6 +48,6 @@ As Malcolm X said:
 > "The future belongs to those who
 > prepare for it today."
 
-[Link](https://github.com/)
+**[Link](https://github.com/)
 
-[Image of Git](Denne pc/Skrivebord/Git hub billede)
+*[Image of Git](Denne pc/Skrivebord/Git hub billede)
