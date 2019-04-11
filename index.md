@@ -8,12 +8,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*Markdown* is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
 # List of things to do:
+
  * You can use my webpage to find inspiration for coding 
    and use the templates in your projects!
  * Feel free to come up with new ideas and suggestions on 
@@ -39,6 +40,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
 
 
 As Malcolm X said: 
