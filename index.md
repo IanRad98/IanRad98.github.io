@@ -51,4 +51,4 @@ As Malcolm X said:
 
 **[Link](https://github.com/)**
 
-*[Image of Git](Git hub billede)*
+*[Image of Git](https://www.google.com/search?q=github&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj9o_qgisjhAhUQ3aQKHfMyAKMQ_AUIDigB&biw=1920&bih=944#imgrc=M6g5PpHAKsmwnM:)*
