@@ -45,8 +45,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 As Malcolm X said: 
 
-> The future belongs to those who
-> prepare for it today.
+> "The future belongs to those who
+> prepare for it today."
 
 [Link](https://github.com/)
 
